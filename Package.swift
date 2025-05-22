@@ -13,6 +13,6 @@ let package = Package(
       .binaryTarget(
          name: "shared",
          url: "https://github.com/AnthonyMde/benchmark-cmp-spm/releases/download/v0.1.2/shared.xcframework.zip",
-         checksum:"8c50b06290fac7dd6597b381e2c58221148d0244bfc8e122e897f180807f2593")
+         checksum:"a3a8c7d2bea1b53548657ae283a7f2272622b4a79e76796e2bd653d3a6d59b41")
    ]
 )
