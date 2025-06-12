@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "shared",
-         url: "https://github.com/AnthonyMde/benchmark-cmp-spm/releases/download/v0.1.2/shared.xcframework.zip",
-         checksum:"a3a8c7d2bea1b53548657ae283a7f2272622b4a79e76796e2bd653d3a6d59b41")
+         url: "https://github.com/AnthonyMde/benchmark-cmp-spm/releases/download/v0.2.0/shared.xcframework.zip",
+         checksum:"f800d99268c6e8f25273df9c393b6da95b29df951e8038a5f735d0f1ea7fddfb")
    ]
 )
